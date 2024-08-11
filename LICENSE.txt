@@ -1,0 +1,6 @@
+Copyright (c) 2024 okipiak
+
+The textures included in this project are licensed for use only within this
+specific project and may not be used, modified, or distributed as part of
+other projects or as standalone assets without explicit permission from 
+the copyright holder.
