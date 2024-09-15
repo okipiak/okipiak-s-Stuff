@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:milk_bucket"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "okipiak:milk_used"
+  }
+}

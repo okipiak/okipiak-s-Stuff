@@ -1,0 +1,3 @@
+execute as @e[tag=okipiak.MilkCauldron] at @s run scoreboard players set @s okipiak.MilkCauldronDestroy 1
+execute as @e[tag=okipiak.MilkCauldron] at @s align xyz run summon item_display ~0.5 ~0.5 ~0.5 {item:{id:"minecraft:repeating_command_block",count:1,components:{"minecraft:custom_model_data":555605}},Tags:["okipiak.CheeseCauldron","okipiak.Cauldron"]}
+execute as @e[tag=okipiak.MilkCauldron] at @s align xyz run summon shulker ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,Health:9999f,AttachFace:0b,Tags:["okipiak.CheeseCauldron"],active_effects:[{id:"minecraft:resistance",amplifier:255,duration:999999,show_particles:0b}],attributes:[{id:"minecraft:generic.scale",base:0.8}]}
