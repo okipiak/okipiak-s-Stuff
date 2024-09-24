@@ -1,1 +1,0 @@
-scoreboard objectives add okipiak.MilkBucketUsedRC dummy
